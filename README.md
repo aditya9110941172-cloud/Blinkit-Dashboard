@@ -97,7 +97,7 @@ To view or modify the dashboard:
 * Data can be refreshed or replaced using Power Query for real-time insights.
 
   Screenshot/Demos
-  Show how the dashboard looks like:
+  Show how the dashboard looks like:https://github.com/aditya9110941172-cloud/Blinkit-Dashboard/blob/main/Screenshot%202025-07-30%20065004.png
 
 📬 Contact
 
