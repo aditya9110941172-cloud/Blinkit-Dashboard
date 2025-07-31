@@ -98,6 +98,8 @@ To view or modify the dashboard:
 
   Screenshot/Demos
   Show how the dashboard looks like:https://github.com/aditya9110941172-cloud/Blinkit-Dashboard/blob/main/Screenshot%202025-07-30%20065004.png
+  ![WhatsApp Image 2025-07-30 at 06 54 19_78444f36](https://github.com/user-attachments/assets/7d9339ec-896f-457e-b76d-96ead12448dd)
+
 
 📬 Contact
 
